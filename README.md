@@ -24,6 +24,17 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![1](https://github.com/user-attachments/assets/60ddcabd-5d81-4f43-9ffd-18911858dd07)
+![2](https://github.com/user-attachments/assets/3488e427-3ca5-415b-8d23-a49d0e22ff1c)
+![3](https://github.com/user-attachments/assets/621946fe-5107-4d93-8521-37389deefe05)
+![4](https://github.com/user-attachments/assets/8945147e-fea0-45da-b3bf-2798bd04be70)
+![5](https://github.com/user-attachments/assets/e32451f6-75fc-4e14-adee-ce0390225742)
+![6](https://github.com/user-attachments/assets/18e15024-8dda-4dd8-8289-d5183cca561a)
+![7](https://github.com/user-attachments/assets/7da483d3-50d8-4607-abae-dc52edbafb83)
+![8](https://github.com/user-attachments/assets/312fd980-074b-4428-b41d-3ddf411ec06d)
+![9](https://github.com/user-attachments/assets/511767cd-47fa-4810-a381-496f6f34d3ef)
+![10](https://github.com/user-attachments/assets/2214d16d-56a2-45f1-9905-e692df0e4b03)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Read the given data and performed Feature Scaling and Feature Selection Processes and saved the data to a file.
+
