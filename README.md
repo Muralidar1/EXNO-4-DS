@@ -34,6 +34,21 @@ The feature selection techniques used are:
 ![8](https://github.com/user-attachments/assets/312fd980-074b-4428-b41d-3ddf411ec06d)
 ![9](https://github.com/user-attachments/assets/511767cd-47fa-4810-a381-496f6f34d3ef)
 ![10](https://github.com/user-attachments/assets/2214d16d-56a2-45f1-9905-e692df0e4b03)
+![11](https://github.com/user-attachments/assets/4b393224-3b4c-4fd2-a440-5907604e6bdc)
+![12](https://github.com/user-attachments/assets/94b69a4b-5dfe-4742-8eef-968901e96c6f)
+![13](https://github.com/user-attachments/assets/eec7a41c-e1fd-4861-9974-19161ced49b5)
+![14](https://github.com/user-attachments/assets/80f8dcf5-3ada-4649-b39b-f60fc99219d1)
+![15](https://github.com/user-attachments/assets/0da1fb25-a98a-47d3-97bc-2ba9a8289b7f)
+![16](https://github.com/user-attachments/assets/fca6a677-2e7f-46c7-b180-456c90fb564c)
+![17](https://github.com/user-attachments/assets/27a9f3c1-da40-4813-b854-e95f80774077)
+![18](https://github.com/user-attachments/assets/d7921a26-757b-46c3-9bb6-da433f372c72)
+![19](https://github.com/user-attachments/assets/0aeabc27-1595-4bae-a28c-8208183d1f84)
+![20](https://github.com/user-attachments/assets/b9ac1325-3bcf-4628-a6ac-1c473e876e11)
+![21](https://github.com/user-attachments/assets/9d379e12-61f3-42a0-a03b-f1b39aa8bd8f)
+![22](https://github.com/user-attachments/assets/5eb2d632-86e5-4a10-bc56-f918da2363e0)
+![23](https://github.com/user-attachments/assets/ffd1ef4d-17a4-438b-be2e-16a02108818b)
+
+
 
 # RESULT:
 Read the given data and performed Feature Scaling and Feature Selection Processes and saved the data to a file.
